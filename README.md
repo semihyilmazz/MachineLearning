@@ -1,5 +1,10 @@
 # MachineLearning
 
+Linear & Losso Regression
+
+Support Vector Regression
+
+
 Car price prediction with Machine Learning.
 Python 3.8 & Scikit learn 
 
